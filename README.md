@@ -4,13 +4,17 @@
 This project is designed to assist visually impaired individuals by detecting nearby obstacles, moisture, and floor level changes using sensors. The system gives audio alerts through a buzzer to help guide the user safely.
 
 ## Features
-### Obstacle Detection: Uses ultrasonic sensors to detect objects in front, left, and right.
+### Obstacle Detection
+Uses ultrasonic sensors to detect objects in front, left, and right.
 
-### Moisture Detection: Alerts if water is detected on the floor.
+### Moisture Detection
+Alerts if water is detected on the floor.
 
-### Pit Detection: Warns the user about floor drops or holes.
+### Pit Detection
+Warns the user about floor drops or holes.
 
-### Directional Audio: Plays different sound patterns based on the situation.
+### Directional Audio
+Plays different sound patterns based on the situation.
 
 ## Components Used
 
